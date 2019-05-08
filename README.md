@@ -9,7 +9,7 @@ EventStream-Events script installed on the site as [Google Analytics](https://an
 
 ## Install
 Add JS file on all pages **before** tag `</body>`
-```js
+```javascript
 <script src="es.js" defer async></script>
 ```
 
