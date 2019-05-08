@@ -9,7 +9,7 @@ notifications:
     on_success: never # default: change
     on_failure: always # default: always
 before_install:
-  - "npm i -g npm@^10"
+  - "npm i -g npm@^6"
 cache: npm
 branches:
   only:
