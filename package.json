@@ -1,0 +1,10 @@
+{
+  "name": "@eventstream/events",
+  "version": "0.0.1",
+  "description": "EventStream is a tool that helps you collect all the information about customers and actions on the site",
+  "main": "src/index.js",
+  "repository": "https://github.com/eventstream/events.git",
+  "author": "Anton Lukichev <anton@lukichev.pro>",
+  "license": "MIT",
+  "private": false
+}
