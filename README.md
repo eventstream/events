@@ -6,7 +6,7 @@
 
 [RU](README_RU.md)
 
-EventStream is a tool that helps you collect all the information about customers and actions on the site
+EventStream is a tool that helps you collect all the information about customers and actions on the site.<br>
 EventStream-Events script installed on the site as [Google Analytics](https://analytics.google.com) or [Yandex Metrica](https://metrika.yandex.ru)
 
 
