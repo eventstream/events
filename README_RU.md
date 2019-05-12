@@ -4,7 +4,7 @@
 ![npm (scoped)](https://img.shields.io/npm/v/@eventstream/events.svg)
 ![NPM](https://img.shields.io/npm/l/@eventstream/events.svg?style=flat)
 
-![EN](README.md)
+[EN](README.md)
 
 EventStream это набор инструментов который позволяет вам собирать персонализированную информацию о ваших посетителях и их действиях на сайте.
 EventStream-Events скрипт устанавливаимый на сайт, как [Google Analytics](https://analytics.google.com) или [Yandex Metrica](https://metrika.yandex.ru)
