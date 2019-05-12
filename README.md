@@ -4,12 +4,16 @@
 ![npm (scoped)](https://img.shields.io/npm/v/@eventstream/events.svg)
 ![NPM](https://img.shields.io/npm/l/@eventstream/events.svg?style=flat)
 
+![RU](README_RU.md)
+
 EventStream is a tool that helps you collect all the information about customers and actions on the site
 EventStream-Events script installed on the site as [Google Analytics](https://analytics.google.com) or [Yandex Metrica](https://metrika.yandex.ru)
 
+
+
 ## Install
 Add JS file on all pages **before** tag `</body>`
-```javascript
+```html
 <script src="es.js" defer async></script>
 ```
 
