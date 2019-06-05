@@ -1,6 +1,6 @@
 # @EventStream/Events
 
-[![Build Status](https://travis-ci.org/eventstream/events.svg?branch=master)](https://travis-ci.org/eventstream/events)
+[![Build Status](https://travis-ci.org/eventstream/events.svg?branch=master)](https://travis-ci.org/eventstream/events) [![Greenkeeper badge](https://badges.greenkeeper.io/eventstream/events.svg)](https://greenkeeper.io/)
 ![npm (scoped)](https://img.shields.io/npm/v/@eventstream/events.svg)
 ![NPM](https://img.shields.io/npm/l/@eventstream/events.svg?style=flat)
 
