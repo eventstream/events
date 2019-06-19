@@ -24,7 +24,7 @@ or use Google Tagmanager, add trigger
 
 
 ## ToDo
-
+[] add Web Beacon API support for send info;
 
 ## FAQ
 
